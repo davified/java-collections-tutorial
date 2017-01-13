@@ -27,10 +27,6 @@ public class Main {
     Collections.reverse(list);
     System.out.println(list);
 
-    // Collections_sortWithComparator
-    Collections.sort(list);
-    System.out.println(list);
-
     // Collections_binarySearchWithComparator
     Student janvi = new Student(2, "janvi", 23);
     Student anushree = new Student(3, "anushree", 18);
